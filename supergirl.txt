@@ -1,0 +1,8 @@
+Hello Nikhil!
+
+My name is Sanjay.
+I am learning Git and GitHub.
+
+This is my first collaborative project.
+
+Date: 08 November 2026
